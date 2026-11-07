@@ -32,6 +32,7 @@
   "autoChimeEnabled",
   "autoPlayActive",
   "autoPlayPaused",
+  "awayHeldForGroupCharacter",
   "beginSessionLoad",
   "buildTurnImages",
   "callMode",
